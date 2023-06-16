@@ -13,6 +13,7 @@
   <li>https://www.udemy.com/course/multi_container/</li>
   <li>https://www.udemy.com/course/mysql-on-docker-free/</li>
   <li>https://www.udemy.com/course/docker-yaml-in-a-nutshell/</li>
+  <li>https://www.udemy.com/course/docker-kubernetes-react-js//</li>
 </ul>
 </div>
 
