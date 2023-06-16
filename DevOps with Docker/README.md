@@ -1,7 +1,7 @@
 
 <h1>DevOps with Docker</h1>
 
-<div>In this project, I will be exploring the DevOps practices with Docker. </div><br><br><br><br>
+<div>In this project, I will be exploring the DevOps practices with Docker. </div><br><br><br>
 
 <div> <em>I will be completing the following courses: </em>
 <ul>
@@ -14,8 +14,9 @@
   <li>https://www.udemy.com/course/mysql-on-docker-free/</li>
   <li>https://www.udemy.com/course/docker-yaml-in-a-nutshell/</li>
 </ul>
-
 </div>
+
+<be><be>
 
 <h3>Documentation</h3>
 <div>
