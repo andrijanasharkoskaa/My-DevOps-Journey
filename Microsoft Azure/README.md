@@ -7,10 +7,10 @@ I will be completing the following courses:
   https://learn.microsoft.com/en-us/certifications/devops-engineer/
   https://learn.microsoft.com/en-us/certifications/azure-administrator/
   https://learn.microsoft.com/en-us/certifications/azure-developer/
+  </div>
+  <br><br>
   
-  <br>
-  
-  <ol>
+  <ul>
   <li>https://www.classcentral.com/course/microsoft-learn-get-started-with-artificial-intelligence-on-azure-62174</li>
     <li>https://www.classcentral.com/course/microsoft-learn-az-900-describe-cloud-concepts-62165</li>
     <li>https://www.classcentral.com/course/microsoft-learn-getting-started-with-microsoft-powershell-116853</li>
@@ -25,6 +25,6 @@ I will be completing the following courses:
     <li>https://learn.microsoft.com/en-us/training/modules/create-deploy-static-webapp-gatsby-app-service/</li>
     <li>https://learn.microsoft.com/en-us/training/modules/github-actions-automate-tasks/</li>
     
-  </ol>
+  </ul>
 
-</div>
+
