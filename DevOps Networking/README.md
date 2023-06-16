@@ -15,6 +15,7 @@
     <li>https://www.udemy.com/course/master-computer-networks-from-zero/</li>
     <li>https://www.udemy.com/course/master-transport-layer-in-computer-networking/</li>
     <li>https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/</li>
+    <li>https://www.classcentral.com/course/networking-academy-networking-essentials-97414</li>
   </ul>
   
   
