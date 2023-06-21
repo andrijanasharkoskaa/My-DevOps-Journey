@@ -8,7 +8,7 @@
   <li>https://devopswithdocker.com/ </li>
   <li>https://www.coursera.org/projects/docker-for-absolute-beginners</li>
   <li>https://www.udemy.com/course/containers-101/</li>
-  <li>https://www.udemy.com/course/software-containerization-and-intro-to-docker/</li> ✅
+  <li>https://www.udemy.com/course/software-containerization-and-intro-to-docker/    ✅</li>
   <li>https://www.udemy.com/cart/subscribe/course/4656270/</li>
   <li>https://www.udemy.com/course/multi_container/</li>
   <li>https://www.udemy.com/course/mysql-on-docker-free/</li>
